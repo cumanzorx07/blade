@@ -1,0 +1,15 @@
+# .ignore
+composer.lock
+node_modules
+/composerCache/
+/node_modules/
+/vendor/
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.phpunit.result.cache
