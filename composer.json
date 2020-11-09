@@ -17,10 +17,10 @@
     "role": "Original Developer"
   }],
   "require": {
-    "illuminate/contracts": "^7.0",
-    "illuminate/events": "^7.0",
-    "illuminate/filesystem": "^7.0",
-    "illuminate/view": "^7.0",
+    "illuminate/contracts": "^7.0 || ^8.0",
+    "illuminate/events": "^7.0 || ^8.0",
+    "illuminate/filesystem": "^7.0 || ^8.0",
+    "illuminate/view": "^7.0 || ^8.0",
     "php": "^7.3"
   },
   "require-dev": {
